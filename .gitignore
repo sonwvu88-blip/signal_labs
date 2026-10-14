@@ -1,0 +1,23 @@
+
+/lab1
+/lab2
+/lab3
+/lab4
+
+*.o
+*.out
+
+/counter.txt
+
+core
+core.*
+
+*~
+*.swp
+*.swo
+
+# Cau hinh rieng cua VS Code
+# .vscode/
+
+.DS_Store
+Thumbs.db
